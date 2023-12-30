@@ -52,7 +52,7 @@ export default function Home() {
   return (
 
     <div className = {`${ibm_plex.className}`}>
-      <h1>Rotate Numbers</h1>
+      <h1>Rotate Characters</h1>
 
       <label>
       Message:
